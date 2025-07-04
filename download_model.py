@@ -24,7 +24,7 @@ except ImportError:
     exit(1)
 
 # Your Hugging Face token for authentication
-HF_TOKEN = "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"
+HF_TOKEN = "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"
 
 # Define the list of core model files expected by the TTS engine.
 # These correspond to files typically found in the Hugging Face repository
